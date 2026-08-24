@@ -2,7 +2,7 @@
 
 ## From Zero to Memory Manager: The Assembly Gauntlet
 
-> prepare yourself for a AI slop (DeepSeek) description because I am too lazy to write it myself. Just once, come on, I promise he's not a larper, itwould be a good reminder for yourself 😉
+> prepare yourself for a AI slop (DeepSeek) description because I am too lazy to write it myself. Just once, come on, I promise he's not a larper, this would be a good reminder for yourself 😉
 
 You've built web apps. You've used React, Vue, and probably a dozen frameworks that will be obsolete in two years. You've never once wondered what actually happens when your JavaScript calls `fetch()` or when Python's garbage collector decides to free memory.
 
