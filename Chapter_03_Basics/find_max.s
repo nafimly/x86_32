@@ -1,3 +1,7 @@
+# edi: store the index of the current item
+# ebx: store the maximum value found so far
+# eax: store the current item being compared
+
 .section .data
 data_items:
     .long 3, 12, 5, 35, 2, 53, 89, 64, 13, 18, 22, 6, 7, 23, 102, 0
